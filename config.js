@@ -40,63 +40,63 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6288232154376', 'AbiDev', true],//
-['3197010517549', '𝙭𝙧', true]
+['6281333154367', '𝚉𝚊𝚕𝚕', true],//
+['6281392128956', 'ROZZ', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6283131475901'
-global.nomorown = '6288232154376'
-global.nomorownv2 = '3197010517549'
-global.nomorown1 = '6288232154376'
-global.nomorown2 = '3197010517549'
+global.nomorbot = '6281327238906'
+global.nomorown = '6281333154367'
+global.nomorownv2 = '6281392128956'
+global.nomorown1 = '6281333154367'
+global.nomorown2 = '6281392128956'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.gcname = '𝑺𝒊𝒎𝒑𝒍𝒆 𝑩𝒐𝒕 𝑾𝒉𝒂𝒕𝒔𝑨𝒑𝒑 𝑩𝒚 𝘼𝙗𝙞𝘿𝙚𝙫'//nama group kalian
-global.author = 'AbiDev'
-global.namebot = '𝙭𝙧𝙗𝙤𝙩'
-global.wm = '𝙭𝙧𝙗𝙤𝙩'
+global.gcname = '𝑺𝒊𝒎𝒑𝒍𝒆 𝑩𝒐𝒕 𝑾𝒉𝒂𝒕𝒔𝑨𝒑𝒑 𝑩𝒚 𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕'//nama group kalian
+global.author = '𝚉𝚊𝚕𝚕'
+global.namebot = '𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕'
+global.wm = '𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕'
 global.media = 'https://telegra.ph/file/e82f65c2907b51f1c57ac.jpg'
 global.watermark = wm
 global.status = 'public'
 global.danied = '          ⚠️ 𝐀𝐜𝐜𝐞𝐬 𝐃𝐚𝐧𝐢𝐞𝐝 ⚠️  '
-global.wame = 'https://wa.me/6288232154376'
+global.wame = 'https://wa.me/6281333154367'
 global.alllink = `https://youtube.com`
-global.wm2 = ' 𝙭𝙧𝙗𝙤𝙩 '
+global.wm2 = ' 𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ TIME: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝙭𝙧𝙗𝙤𝙩`
+global.titlebot = `𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕`
 global.stickpack = 'Created by: '
-global.stickauth = `© 𝙭𝙧𝙗𝙤𝙩`
+global.stickauth = `© 𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= '#𝐗𝐑𝐚𝐳'
-global.nameown2 = '𝙭𝙧'
+global.nameown1= '𝚉𝚊𝚕𝚕'
+global.nameown2 = 'ROZZ'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = '-'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/abityru'//Instagram klian
-global.sgh = 'https://github.com/AbiDev11' //github
-global.tautanwa = 'https://wa.me/6288232154376'
+global.sig = 'https://instagram.com/zallzall02'//Instagram klian
+global.sgh = 'https://github.com/rizalmhmd' //github
+global.tautanwa = 'https://wa.me/6281333154367'
 global.sgc = 'https://chat.whatsapp.com/BKi5RCs2EHaG2g0e2bJ72r' //group whatsapp
 global.syt = '-' //youtube
 global.sytv = 'https://youtu.be/lN-0jnuK2'//link video yt
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0888232154376'
-global.povo = '-'
-global.pgopay = '0888232154376'
+global.pdana = '081333154367'
+global.povo = '081333154367'
+global.pgopay = '-'
 global.plinkaja = '-' //link aja
-global.ppulsa = '-'
-global.ppulsa2 = '-'
+global.ppulsa = '081333154367'
+global.ppulsa2 = '081327238906'
 global.psaweria = '-'
 
 
@@ -317,9 +317,9 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 
 
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/abityru24"
+global.urlnya = "https://www.instagram.com/zallzall02"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '0882 3215 4376'
+global.phn = '0813 3315 4367'
 
 function pickRandom(list) {
   return list[Math.floor(Math.random() * list.length)]
